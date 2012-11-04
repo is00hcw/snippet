@@ -1,0 +1,4 @@
+2012/11/1
+作業：將班級人數同對老師的評價用entropy分群
+資料庫來源：http://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation
+我用python實現
